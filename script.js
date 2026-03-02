@@ -146,7 +146,7 @@ document.addEventListener('keydown', function(event) {
                 newWindow.document.close();
             }
         } else if (password !== null) {
-            alert("Incorrect password.");
+            alert("Contraseña incorrecta.");
         }
     }
 });

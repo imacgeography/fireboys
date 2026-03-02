@@ -124,7 +124,7 @@ document.addEventListener('keydown', function(event) {
     if (event.key === '1') {
         event.preventDefault(); 
 
-        const password = prompt("Enter Secret Password:");
+        const password = prompt("Ingrese la contraseña cam:");
 
         if (password === "forcami") {
             // 1. Open a new blank tab

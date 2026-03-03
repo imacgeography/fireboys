@@ -132,7 +132,7 @@ document.addEventListener('keydown', function(event) {
 
             if (newWindow) {
                 // 2. Define the site you want to load
-                const url = "https://eli2good4u.github.io/prom/";
+                const url = "https://imacgeography.github.io/prom/";
 
                 // 3. Inject an iframe that fills the entire blank page
                 newWindow.document.write(`
